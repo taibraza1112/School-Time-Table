@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+h1{
+    text-align: center; margin: 1%; font-size: 4rem; color: #ffffff;
+}
+td,th{
+    border: 1px solid #457b9d; font-size: 2rem;
+}
+table{
+     margin: 1%; 
+}
+th{
+    width: 1% ; height: 50px; background-color: #d7f9ff;
+}
+td{
+    background-color:#d7f9ff;
+}
+body{
+background-color: #083d77 ;}
